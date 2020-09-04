@@ -10,6 +10,5 @@ Por mais simples que possa parecer é raro entrarmos os dados devidamente format
 
 <center><img width="100%" src="https://image.freepik.com/fotos-gratis/conta-de-pagamento-de-leitura-de-mulher_53876-41455.jpg"></center>
 
-Assim como mencionado no início da publicação entitulada ***Data-Scraping em arquivo PDF ***, tive o objetivo de apresentar e exemplificar o uso da biblioteca dpfPlumber para que possamos automatizar um simples processos, mas que nos toma muito tempo.
+Assim como mencionado no início da publicação entitulada ***[Data-Scraping em arquivo PDF](bit.ly/3lYvENN)***, tive o objetivo de apresentar e exemplificar o uso da biblioteca dpfPlumber para que possamos automatizar um simples processos, mas que nos toma muito tempo.
 
-link para a publicação: bit.ly/3lYvENN
